@@ -7,8 +7,4 @@ Setiap tugas dikerjakan per pertemuan dan disimpan dalam folder tersendiri di br
 ## Struktur Repository
 
 - `Pertemuan-1/` → Tugas 1: Sistem MVC sederhana menampilkan data Genre dan Author.
-
-## Tugas 1 - MVC Genre & Author
-
-**Deskripsi:**  
-Tugas ini merupakan implementasi **MVC sederhana** menggunakan Laravel, yang menampilkan data **Genre** dan **Author** dari **Model** ke **View** melalui **Controller**.
+- `Pertemuan-2/` → Tugas 2: Migration dan Seeder untuk membuat tabel dan data dummy.
