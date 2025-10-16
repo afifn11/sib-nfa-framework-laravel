@@ -3,12 +3,13 @@
 namespace App\Http\Controllers;
 
 use App\Models\Author;
+use Illuminate\Http\Request;
 
 class AuthorController extends Controller
 {
     public function index()
     {
-        $authors = Author::all(); // Ambil data dari model
-        return view('authors.index', compact('authors')); // Kirim ke view
+        $authors = Author::all();
+        return view('authors.index', compact('authors'));
     }
 }
