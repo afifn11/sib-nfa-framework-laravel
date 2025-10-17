@@ -9,4 +9,5 @@ Setiap tugas dikerjakan per pertemuan dan disimpan dalam folder tersendiri di br
 - `Pertemuan-1/` → Tugas 1: Sistem MVC sederhana menampilkan data Genre dan Author.
 - `Pertemuan-2/` → Tugas 2: Migration dan Seeder untuk membuat tabel dan data dummy.
 - `Pertemuan-3/` → Tugas 3: Web Service dan REST API.
-- `Pertemuan-4/` → Read & Create Data Author dan genre.
+- `Pertemuan-4/` → Tugas 4: Read & Create Data Author dan genre.
+- `Pertemuan-5/` → Tugas 5: Show, Update, Destroy Data Author dan Genre.
