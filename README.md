@@ -11,3 +11,4 @@ Setiap tugas dikerjakan per pertemuan dan disimpan dalam folder tersendiri di br
 - `Pertemuan-3/` → Tugas 3: Web Service dan REST API.
 - `Pertemuan-4/` → Tugas 4: Read & Create Data Author dan genre.
 - `Pertemuan-5/` → Tugas 5: Show, Update, Destroy Data Author dan Genre.
+- `Pertemuan-6/` → Tugas 6: Implementasi Authentication & Authorization pada Author dan Genre (Read publik, Create/Update/Delete hanya admin).
